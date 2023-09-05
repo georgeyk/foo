@@ -1,0 +1,4 @@
+Django==4.2.5
+django-charid-field==0.3
+django-simple-history==3.3.0
+python-ulid==1.1.0
